@@ -24,6 +24,7 @@
         "myclabs/php-enum": "^1.8",
         "sylius/resource-bundle": "^1.12",
         "sylius/sylius": "^2.0",
+        "sylius/telemetry": "^1.0",
         "symfony/messenger": "^6.4 || ^7.1",
         "php-http/discovery": "^1.20"
     },
@@ -85,7 +86,7 @@
     "extra": {
         "symfony": {
             "allow-contrib": false,
-            "require": "~7.2.0"
+            "require": "~7.4.0"
         },
         "branch-alias": {
             "dev-2.0": "2.0-dev"
